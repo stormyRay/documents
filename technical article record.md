@@ -5,3 +5,7 @@
 ### Official Redux (Async) Example
 [http://redux.js.org/docs/advanced/ExampleRedditAPI.html](http://redux.js.org/docs/advanced/ExampleRedditAPI.html)
 > The official document of Redux, giving a simple example for the redux beginners.
+
+### isomorphic-fetch (Git)
+[https://github.com/matthew-andrews/isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch)
+> A library of async data transmission in a "promise" way, used in the official redux async example.
