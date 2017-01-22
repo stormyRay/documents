@@ -5,5 +5,4 @@
 * git add \</filepath/filename\>
 * git commit -a -m "Comments"
 * git push (--set-upstream origin master)
-
 * git checkout -- \<target\>
