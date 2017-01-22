@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Flash Cast</title>
+        <style type="text/css">
+        .container {
+            display: inline-block;
+        }
+        .wrapper{
+            position: relative;
+        }
+        .intro {
+            position: absolute;
+            top: 0;
+            left: 0;
+            border: 1px solid black;
+            background-color: #FFFFFF;
+            z-index: 99999;
+        }
+        </style>
+        <script type="text/javascript" src="scripts/jquery.min.js"></script>
+        <script type="text/javascript" src="scripts/underscore-min.js"></script>
+    </head>
+    <body>
+        <div id="root"></div>
+    </body>
+
+    <script type="text/javascript" src="scripts/main.js"></script>
+    <script type="text/javascript" src="scripts/theFlash.json"></script>
+    <script type="text/javascript">
+        $.getJSON("scripts/theFlash.json", function(data) {
+            var theFlashCasts = new Casts("root", data);
+            theFlashCasts.buildDOM();
+        })
+    </script>
+</html>
+
