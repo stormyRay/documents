@@ -15,7 +15,3 @@ function dayOfYear(year, month, day) {
 
 	return days;
 }
-
-console.log(dayOfYear(2016, 1, 3));
-console.log(dayOfYear(2016, 2, 3));
-console.log(dayOfYear(2016, 12, 31));
