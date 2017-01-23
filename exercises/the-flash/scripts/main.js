@@ -39,7 +39,7 @@ Casts.prototype = {
                     ;
         var $wrapper = $("<div></div>")
                     .addClass("wrapper")
-                    .attr("id", "wrapper" + index);
+                    .attr("id", "wrapper" + index)
                     .append($image)
                     .append($info)
                     .mouseenter(function(e){
