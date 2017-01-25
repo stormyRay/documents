@@ -9,3 +9,8 @@
 ### isomorphic-fetch (Git)
 [https://github.com/matthew-andrews/isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch)
 > A library of async data transmission in a "promise" way, used in the official redux async example.
+
+
+### Markdown quick reference
+[https://en.support.wordpress.com/markdown-quick-reference/](https://en.support.wordpress.com/markdown-quick-reference/)
+> Markdown Syntax (in Git md files) eference with good examples. easy to learn.
