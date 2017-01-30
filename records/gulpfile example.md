@@ -1,3 +1,15 @@
+Except for the gulpfile below, you need more things to do for the es6 transpling:
+
+* add .babelrc file as
+```
+{ "presets": ["es2015"] }
+```
+* install npm preset packages
+```
+npm install babel-preset-es2015 --save --no-bin-links
+npm install babel-preset-react --save --no-bin-links
+```
+
 ```javascript
 var gulp = require('gulp');
 var uglify = require('gulp-uglify');
