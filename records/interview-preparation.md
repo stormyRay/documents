@@ -10,9 +10,10 @@
 
 1. 介绍各种排序算法， 手写快排
 2. 网络协议，应用层协议，选择一层详细讲解
-3. session，cookies，系统cache与Http的cache
-4. 优缺点
-5. 什么时候开始学前端的，问什么学前端
+3. session，cookies
+4.系统cache与Http的cache[http://blog.csdn.net/cdnight/article/details/24717715](http://blog.csdn.net/cdnight/article/details/24717715)
+5. 优缺点
+6. 什么时候开始学前端的，问什么学前端
 
 实现左边定宽右边自适应的布局
 
