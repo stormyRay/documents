@@ -18,3 +18,7 @@
 ### How-to setup Webpack on an ES6 React Application with SASS?
 [https://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html](https://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html)
 > An amazing guideline for react+webpack beginners, includes features of bundling, live reload server, react+es6, sass...
+
+### Node.js and MySQL tutorial
+[https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/](https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/)
+> A tutorial guide to build up a simple server with Node & MySQL.
