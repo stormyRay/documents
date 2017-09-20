@@ -22,3 +22,7 @@
 ### Node.js and MySQL tutorial
 [https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/](https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/)
 > A tutorial guide to build up a simple server with Node & MySQL.
+
+### Webstorm in macOS (Chinese)
+[http://www.jianshu.com/p/492309c60348](http://www.jianshu.com/p/492309c60348)
+> Tricky method to install webstorm in macOS
