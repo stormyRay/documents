@@ -26,3 +26,7 @@
 ### Webstorm in macOS (Chinese)
 [http://www.jianshu.com/p/492309c60348](http://www.jianshu.com/p/492309c60348)
 > Tricky method to install webstorm in macOS
+
+### React + es6 + Webpack guide (Chinese)
+[https://www.cnblogs.com/zamhown/p/6428050.html](https://www.cnblogs.com/zamhown/p/6428050.html)
+> Chinese guide for the project building with React + es6 + webpack
