@@ -30,3 +30,7 @@
 ### React + es6 + Webpack guide (Chinese)
 [https://www.cnblogs.com/zamhown/p/6428050.html](https://www.cnblogs.com/zamhown/p/6428050.html)
 > Chinese guide for the project building with React + es6 + webpack
+
+### 2018 Study Materials (in The Top JavaScript Trends to Watch in 2018)
+[https://x-team.com/blog/top-javascript-trends-2018/#2018studymaterials](https://x-team.com/blog/top-javascript-trends-2018/#2018studymaterials)
+> A good study plan for new tech in 2018 from X-Team. The article for the js trend is also a brilliant summary.
